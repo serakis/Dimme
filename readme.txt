@@ -1,4 +1,4 @@
-hello sogeti
+*hello sogeti
 
 build triggering
 
